@@ -1,4 +1,3 @@
-# MyNameIsArko
 Cześć, aktualnie studiuję **Informatykę i Systemy Inteligentne** na `Akademii Górniczo-Hutniczej`
 
 ## Programowanie
