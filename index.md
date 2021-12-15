@@ -37,7 +37,7 @@ bomb
 Projekt powstał w ramach ćwiczeń z przedmiotu narzędzia informatyczne. Celem projektu jest między innymi zapoznanie się z rozproszonymi systemami kontroli wersji.
 
 Pozostali wykonawcy:
-* maciadthub.com/maciad
+* https://github.com/maciad
 * https://github.com/tycjantyc
 * https://github.com/Shikoqu
 * https://github.com/DamianM02
