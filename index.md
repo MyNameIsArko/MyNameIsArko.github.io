@@ -30,8 +30,15 @@ Celem gry jest pozbycie się przeciwników za pomocą stawiania bomb w strategic
 Projekt powstał w ramach ćwiczeń z przedmiotu narzędzia informatyczne. Celem projektu jest między innymi zapoznanie się z rozproszonymi systemami kontroli wersji.
 
 Pozostali wykonawcy:
-* ![maciad](https://github.com/maciad)
-* ![tycjantyc](https://github.com/tycjantyc)
-* ![Shikoqu](https://github.com/Shikoqu)
-* ![DamianM02](https://github.com/DamianM02)
-* ![Tigerly1](https://github.com/Tigerly1)
+* https://giozbycie się przeciwników za pomocą stawiania bomb w strategicznych pozycjach
+
+bomb
+
+Projekt powstał w ramach ćwiczeń z przedmiotu narzędzia informatyczne. Celem projektu jest między innymi zapoznanie się z rozproszonymi systemami kontroli wersji.
+
+Pozostali wykonawcy:
+* maciadthub.com/maciad
+* https://github.com/tycjantyc
+* https://github.com/Shikoqu
+* https://github.com/DamianM02
+* https://github.com/Tigerly1
